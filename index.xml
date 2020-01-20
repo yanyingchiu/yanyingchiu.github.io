@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OneOne</title>
+    <link>https://yanyingchiu.github.io/</link>
+    <description>Recent content on OneOne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yanyingchiu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to OneOne&#39;s Blog</title>
+      <link>https://yanyingchiu.github.io/2020/01/17/hello-world/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanyingchiu.github.io/2020/01/17/hello-world/</guid>
+      <description> “Yeah It&#39;s on. ”
+ Hello World! </description>
+    </item>
+    
+    <item>
+      <title>目錄的目的與功能</title>
+      <link>https://yanyingchiu.github.io/2020/01/17/catalog/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanyingchiu.github.io/2020/01/17/catalog/</guid>
+      <description>目錄的目的與功能 有鑒於課本上寫的真的是太深奧了，決定用自己淺白的語句來描述。 本篇主要整理的是各編目學者對目錄的目的與功能的見解 前置知識 款目：</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yanyingchiu.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanyingchiu.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yanyingchiu.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanyingchiu.github.io/top/about/</guid>
+      <description>Hello I&#39;m OneOne
+Talks </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yanyingchiu.github.io/top/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanyingchiu.github.io/top/books/</guid>
+      <description>我的作品 作品集</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library on OneOne</title>
+    <link>https://yanyingchiu.github.io/categories/library/</link>
+    <description>Recent content in Library on OneOne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yanyingchiu.github.io/categories/library/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>目錄的目的與功能</title>
+      <link>https://yanyingchiu.github.io/2020/01/17/catalog/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanyingchiu.github.io/2020/01/17/catalog/</guid>
+      <description>目錄的目的與功能 有鑒於課本上寫的真的是太深奧了，決定用自己淺白的語句來描述。 本篇主要整理的是各編目學者對目錄的目的與功能的見解 前置知識 款目：</description>
+    </item>
+    
+  </channel>
+</rss>
